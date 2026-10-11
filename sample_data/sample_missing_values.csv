@@ -1,0 +1,5 @@
+customer_id,age,city,active,score
+101,34,Delhi,True,82.5
+102,,Mumbai,False,91.0
+103,29,,True,
+104,41,Delhi,True,77.0
